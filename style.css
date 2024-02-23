@@ -1,0 +1,27 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    font-size: 32px;
+    width: 100%;
+    margin: 0px;
+    font-family: Goudy Old Style;
+    font-weight: bolder;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+.butn {
+    font-size: 24px;
+    border-radius: 23px;
+    background: steelblue;
+    border-color: midnightblue;
+    font-family: Monotype Corsiva;
+    font-weight: bolder;
+    width: 40%;
+}
